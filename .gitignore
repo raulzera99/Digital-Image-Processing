@@ -1,0 +1,3 @@
+# Ignorar todos os arquivos, exceto os notebooks Jupyter
+*
+!*.ipynb
