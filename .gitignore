@@ -9,6 +9,7 @@
 !*.ttf
 !*.avi
 !*.mpeg
+!*.md
 
 # Ignorar todos os arquivos de texto (.txt)
 *.txt
